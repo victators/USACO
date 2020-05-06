@@ -4,6 +4,11 @@ LANG: JAVA
 PROG: dinner
 */
 
+/* THIS SOLUTION SEEMS TO BE INCORRECT
+   find the correct solution at 
+   https://contest.usaco.org/TESTDATA/OCT10S.dinner.htm
+*/
+
 import java.io.*;
 import java.util.*;
 
